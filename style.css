@@ -1,0 +1,26 @@
+body {
+  font-family: "Gelasio", serif;
+}
+h1 {
+  font-size: 40px;
+}
+.name-highlight {
+  color: chocolate;
+}
+
+.half-border {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+
+.half-border img {
+  width: 100%;
+}
+.devcolor {
+  color: crimson;
+}
+.down {
+  padding-top: 55%;
+}
